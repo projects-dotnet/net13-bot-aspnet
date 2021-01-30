@@ -1,0 +1,16 @@
+{
+    "name": "Net13-bot",
+    "description": "",
+    "version": "2.0",
+    "secretKey": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "NET13-Bot",
+            "id": "77595130-b112-11e8-ad78-7b616cd12d38",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ]
+}
